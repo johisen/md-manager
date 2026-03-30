@@ -1,0 +1,14 @@
+{
+  "name": "md-manager",
+  "version": "1.0.0",
+  "description": "MD 文件整理工具 - 文件名校验、字符数统计、AI 精简",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
